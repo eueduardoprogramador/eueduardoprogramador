@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eueduardoprogramador 
 - 💞️ Entrei para o mundo do desenvolvimento em fevereiro de 2021, quando iniciei minha faculdade. Foi amor no primeiro "Hello Word"!
-- 💻 Atualmente sou estagiário na parte de desenvolvimento back-end na linguagem JAVA em uma empresa que presta sistemas para gestão pública.
+- 💻 Atualmente sou programador na parte de desenvolvimento back-end na linguagem JAVA em uma empresa que presta sistemas para gestão pública.
 - 📚 São as primeiras linhas de CÓDIGO deste NERD aqui para uma VIDA toda de TECNOLOGIA!
 - 💡 Solucionar problemas é meu dever! 
  ##
